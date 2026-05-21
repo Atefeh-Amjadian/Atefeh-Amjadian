@@ -1,22 +1,29 @@
-# Hi, I'm Atefeh! 👋
+# Hi, I'm Atefeh Amjadian 👋
 
-I'm a passionate learner of **Natural Language Processing (NLP)** and **Machine Learning (ML)**, working with Python, NLTK, and Scikit-learn. My goal is to become a data scientist, freelance on platforms like Upwork, and pursue job opportunities in the Netherlands.
+I am an AI and Machine Learning enthusiast with a background in Computer Software Engineering. My work focuses on building practical AI systems, intelligent backend applications, machine learning pipelines, and data-driven solutions.
 
-## 🚀 My Projects
-- **[nlp_learning](https://github.com/Atefeh-Amjadian/nlp_learning)**: A collection of my NLP and ML projects, including text tokenization, Iris classification, and sentiment analysis.
-- More projects coming soon!
+I am particularly interested in healthcare AI, federated learning, intelligent automation, backend systems for AI applications, and real-world machine learning workflows.
 
-## 🛠️ Skills
-- **Programming**: Python, Jupyter Notebook
-- **Libraries**: NLTK, Scikit-learn, Pandas
-- **Techniques**: Text tokenization, Sentiment analysis, Classification
+Currently, I am developing and exploring projects related to:
 
-## 🎯 Goals
-- Master NLP for applications like chatbots and text classification.
-- Build a portfolio for freelancing and data science roles in the Netherlands.
-- Contribute to open-source projects.
+* Machine Learning & Data Science
+* AI-powered backend systems
+* Healthcare AI applications
+* Federated & privacy-aware learning systems
+* Intelligent automation and AI workflows
+* Computer Vision and multimodal systems
 
-## 📫 Get in Touch
-- Reach me via GitHub or [am.atefeh1370@gmail.com]
-  
-Thanks for visiting my profile! 😊
+## Technical Stack
+
+* Python
+* FastAPI
+* PostgreSQL
+* Scikit-learn
+* XGBoost
+* OpenCV & MediaPipe
+* Docker
+* Git & GitHub
+
+## Current Focus
+
+I am actively building AI projects and expanding my skills in machine learning engineering, intelligent systems, and scalable AI applications while preparing for both research-oriented and industry opportunities.
